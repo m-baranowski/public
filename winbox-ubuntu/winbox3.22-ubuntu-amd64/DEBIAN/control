@@ -1,0 +1,8 @@
+Package: winbox3.22-ubuntu-amd64
+Version: 0.1
+Section: Utilities
+Priority: optional
+Architecture: amd64
+Depends: wine (>= 2.0)
+Maintainer: m-baranowski  <mn.baranowski@gmail.com>
+Description: Package containing winbox application for Mikrotik devices management.

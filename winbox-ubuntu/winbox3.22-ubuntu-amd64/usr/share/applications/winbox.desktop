@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=winbox
+Icon=/usr/share/icons/hicolor/48x48/apps/winbox.png
+Exec=wine /opt/winbox/winbox64.exe
+Terminal=false
+Categories=Utilities;
